@@ -68,7 +68,7 @@ footer img {
 }
 
 body  {
-  background-image: url("hd wallpaper.jpeg");            /* Image used for background */
+  background-image: url("hd\ wallpaper.jpg");           /* Image used for background */
   background-color: #000000;                     /* Single colour of webpage if no image for background */
   background-repeat:no-repeat;                   /* Single image and no repeating */
   background-size: 1400px 1000px;
