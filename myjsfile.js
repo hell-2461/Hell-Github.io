@@ -1,4 +1,4 @@
-}
+{
 // Toggle grid padding
 function myFunction() {
   var x = document.getElementById("myGrid");
